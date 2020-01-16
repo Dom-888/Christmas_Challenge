@@ -3,4 +3,6 @@
 
 ![Instructions](https://github.com/Dom-888/Christmas_Challenge/blob/master/instructions.jpg "Instructions")
 
-## [--->See solution<---](https://github.com/Dom-888/Christmas_Challenge/blob/master/solution.py)
+<div style="text-align: center; font-size: 24px">
+    <a href="https://github.com/Dom-888/Christmas_Challenge/blob/master/solution.py">--> See solution <--</a>
+</div>
